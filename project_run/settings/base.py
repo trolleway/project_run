@@ -120,4 +120,4 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 # USER
 COMPANY_NAME = 'Бегуны-дилетанты'
 SLOGAN = 'Трекер бега'
-CONTACTS = 'Город Загородск, улица 30 Лет СССР, дом 30'
+CONTACTS = 'Город Загородск, Заречный район, Сиреневый парк'
