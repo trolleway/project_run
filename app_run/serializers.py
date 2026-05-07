@@ -19,6 +19,6 @@ class UserSerializer(serializers.ModelSerializer):
 
     def get_type(self, obj):
         if obj.is_staff:
-            return 'Coach'
+            return 'coach'
         else:
-            return 'Athlete'
+            return 'athlete'
